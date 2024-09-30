@@ -31,10 +31,5 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebzaidi&show_icons=true&hide_border=true&layout=compact&langs_count=20"/>
-
-</p>
 
