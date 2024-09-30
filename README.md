@@ -34,7 +34,7 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebzaidi&show_icons=true&hide_border=true&layout=compact&langs_count=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebzaidi&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=php,html,css"/>
 
 </p>
 
