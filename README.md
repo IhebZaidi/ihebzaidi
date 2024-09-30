@@ -1,6 +1,3 @@
-Il semble que vous ayez fourni un exemple de fichier README personnalisé pour une page GitHub. Voici comment vous pouvez l'adapter à votre propre profil, Iheb Zaidi, en utilisant votre propre expérience et vos liens :
-
----
 
 ### Hi there, I'm <a href="" target="_blank">Iheb Zaidi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
