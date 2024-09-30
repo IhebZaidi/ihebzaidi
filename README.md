@@ -34,10 +34,7 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihebzaidi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebzaidi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebzaidi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 </p>
 
----
-
-Vous pouvez bien sûr personnaliser davantage le texte, les liens vers vos réseaux sociaux, et même changer l'image GIF utilisée. L'idée est de mettre en avant vos compétences, votre travail, et de rendre le README attrayant pour les visiteurs de votre profil GitHub.
